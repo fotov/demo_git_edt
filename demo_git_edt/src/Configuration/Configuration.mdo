@@ -5,6 +5,7 @@
     <key>ru</key>
     <value>Demo git edt</value>
   </synonym>
+  <comment>1</comment>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="d11b8917-b36f-4a37-91f5-7f7f0501da6d"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b23f006a-18be-43be-a5c5-6d129ce6982f"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="0529bd28-486a-41e5-93f3-6716364e18c8"/>
